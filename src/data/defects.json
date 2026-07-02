@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Двигатель стучит", "repairable": true },
+  { "id": 2, "name": "Коробка передач хрустит", "repairable": true },
+  { "id": 36, "name": "Нечинимый прогон кузова", "repairable": false },
+  { "id": 37, "name": "Электроника сгорела навсегда", "repairable": false },
+  { "id": 38, "name": "Рама лопнута", "repairable": false }
+]
