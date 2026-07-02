@@ -1,0 +1,4 @@
+[
+  { "id": 1, "brand": "Toyota", "model": "Supra MK4", "basePrice": 450000, "auctionPrice": 270000 },
+  { "id": 2, "brand": "Nissan", "model": "Skyline GT-R R34", "basePrice": 500000, "auctionPrice": 300000 }
+]
